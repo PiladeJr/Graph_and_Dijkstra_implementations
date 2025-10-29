@@ -1,5 +1,9 @@
-package it.unicam.cs.asdl2425;
+package test.java.it.unicam.cs.asdl2425;
 
+import it.unicam.cs.asdl2425.AdjacencyMatrixDirectedGraph;
+import it.unicam.cs.asdl2425.Graph;
+import it.unicam.cs.asdl2425.GraphEdge;
+import it.unicam.cs.asdl2425.GraphNode;
 import org.junit.Test;
 
 import java.util.ArrayList;

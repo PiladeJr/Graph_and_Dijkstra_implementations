@@ -1,4 +1,4 @@
-package it.unicam.cs.asdl2425;
+package test.java.it.unicam.cs.asdl2425;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList;
 import java.util.List;
 
+import it.unicam.cs.asdl2425.*;
 import org.junit.jupiter.api.Test;
 
 /**

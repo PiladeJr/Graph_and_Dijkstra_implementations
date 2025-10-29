@@ -1,5 +1,8 @@
-package it.unicam.cs.asdl2425;
+package test.java.it.unicam.cs.asdl2425;
 
+import it.unicam.cs.asdl2425.BinaryHeapMinPriorityQueue;
+import it.unicam.cs.asdl2425.GraphNode;
+import it.unicam.cs.asdl2425.PriorityQueueElement;
 import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

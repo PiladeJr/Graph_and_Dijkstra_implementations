@@ -56,7 +56,7 @@ java -cp out com.example.DijkstraShortestPathComputerTest
 ```
 
 otherwise you'll see below on the test section all the specific classes
-## 🧠 Usage/Examples
+### 🧠 Usage/Examples
 
 1- Graph creation
 

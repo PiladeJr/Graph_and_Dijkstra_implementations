@@ -19,7 +19,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ### Prerequisites
 
-- Java 11 or later
+- Java 8 or later
 - Git (to clone the repository)
 - Maven or Gradle (for building and running tests)
 - JUnit 5 (for running test cases)

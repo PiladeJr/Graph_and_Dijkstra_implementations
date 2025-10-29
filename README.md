@@ -1,5 +1,9 @@
 # Graph and Dijkstra Implementations
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+![Java](https://img.shields.io/badge/Java-8-red?logo=openjdk)
 
 ## 🧩 Description
 
@@ -214,12 +218,7 @@ Implementation: PiladeJr
 Template & Guidance: Professor Luca Tesei – University of Camerino
 
 Special thanks to the University’s Algorithms and Data Structures course, and its professors, for the original framework.
-## Badges
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-[![Java Language](https://img.shields.io/badge/java-red.svg)](https://img.shields.io/open-vsx/dt/:namespace/:java)
 
 
 

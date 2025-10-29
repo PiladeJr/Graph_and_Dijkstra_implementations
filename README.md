@@ -56,7 +56,7 @@ java -cp out com.example.DijkstraShortestPathComputerTest
 ```
 
 otherwise you'll see below on the test section all the specific classes
-### 🧠 Usage/Examples
+## 🧠 Usage/Examples
 
 1- Graph creation
 
@@ -88,7 +88,7 @@ node.setPriority(10);
 queue.insert(node);
 PriorityQueueElement min = queue.extractMinimum();
 ```
-## Use-cases
+### Use-cases
 
 Educational: Use this code to learn how graph structures and shortest path algorithms work.
 
